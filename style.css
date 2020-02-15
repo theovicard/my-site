@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+.bg-image {
+    height: 130vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn-red {
+    color: #fff;
+    background-color: #e19f61;
+    border-color: #e19f61;
+}
+
+div.main {
+    margin-top: 100px;
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    color: #d2ff6d;
+    }
+h2 {
+    color: red;
+    }
